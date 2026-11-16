@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/github-banner.png" alt="André Rossi - Junior Web Developer" />
+<img width="100%" src="./assets/github-banner.webp" alt="André Rossi - Junior Web Developer" />
 
 <br>
 
